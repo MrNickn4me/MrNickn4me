@@ -1,8 +1,8 @@
-- 👋 Hello, I’m @Nicknamick
-- 👀 I'm mainly interested in programming, but also in 3D modeling.
-- 🌱 I’m currently learning C#, skript and little javascript.
-- 📫 How to reach me?
-- Not possible yet;^
+- <p>👋 Hello, I’m @Nicknamick</p>
+- <p>👀 I'm mainly interested in programming, but also in 3D modeling.</p>
+- <p>🌱 I’m currently learning C#, skript and little javascript.</p>
+- <p>📫 How to reach me?</p>
+- <p>Not possible yet;^</p>
 
 <!---
 You can write me on Discord, Nickname#7888
