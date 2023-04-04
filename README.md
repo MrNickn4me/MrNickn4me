@@ -1,1 +1,1 @@
-<h1 class="center">Hi, I'm Nickname</h1>
+<h1 margin-left="2em">Hi, I'm Nickname</h1>
