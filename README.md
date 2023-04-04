@@ -1,1 +1,8 @@
-<h1 style="maring-left: 2em">Hi, I'm Nickname</h1>
+<p></p>
+<h2>Hey, I'm Nickname</h2>
+<p>
+  <h4>About me</h4>
+  - <p>Test</p>
+  - <p>Test</p>
+  - <p>Test</p>
+</p>
