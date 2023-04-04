@@ -1,5 +1,1 @@
-- <p>👋 Hello, I’m @Nicknamick</p>
-- <p>👀 I'm mainly interested in programming, but also in 3D modeling.</p>
-- <p>🌱 I’m currently learning C#, skript and little javascript.</p>
-- <p>📫 How to reach me?</p>
-- <p>Not possible yet;^</p>
+<h1>Hi, I'm Nickname</h1>
