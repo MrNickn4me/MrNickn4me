@@ -1,7 +1,5 @@
-<h2>Hey, I'm Nickname</h2>
-<p>
-  <strong>Currently I working on my main projects</strong>
-</p>
-```
-Text
-```
+## Hey, I'm Nickname
+
+*Web Developer / Junior Programmer*<br>
+**About me**
++ I'm 16 years old 
