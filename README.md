@@ -1,5 +1,7 @@
 <h2>Hey, I'm Nickname</h2>
-**About me**
-- Test
-- Test
-- Test
+<p>
+  <strong>Currently I working on my main projects</strong>
+</p>
+```
+Text
+```
