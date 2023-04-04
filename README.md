@@ -8,5 +8,4 @@
 + > Currently learn C# and working on game development 🎮
 + > If you have any question, ask me <!--[here](https://discord.com/)-->`(Soon Available)` 💬
 
-<br>
 <h2 align="center">My tools:</h2>
