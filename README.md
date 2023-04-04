@@ -1,7 +1,5 @@
 <h2>Hey, I'm Nickname</h2>
-<p>
-  **About me**
-</p>
+**About me**
 - Test
 - Test
 - Test
