@@ -8,4 +8,8 @@
 + > Currently learn C# and working on game development 🎮
 + > If you have any question, ask me <!--[here](https://discord.com/)-->`(Soon Available)` 💬
 
-<h2 align="center">My tools:</h2>
+<h2 align="center">My tools and technologies:</h2>
+
+| **Programming Languages** | **Frameworks and Libraries** | **Web and Markup Languages** | **Tools** |
+| ------------- | ------------- | ------------- | ------------- |
+| <code><img height="20" src="" alt="C#"></code> <code><img height="20" src="" alt="C++"></code> <!--<code><img height="20" src="" alt="Java"></code>--> | <!--<code><img height="20" src="" alt="Reactjs"></code>--> <code><img height="20" src="" alt="TailwindCSS"></code> <code><img height="20" src="" alt="Discordjs"></code> | <code><img height="20" src="" alt="Html"></code> <code><img height="20" src="" alt="Css"></code> <code><img height="20" src="" alt="Javascript"></code> <code><img height="20" src="" alt="Nodejs"></code> | <code><img height="20" src="" alt="Visual Studio"></code> <code><img height="20" src="" alt="Visual Studio Code"></code> <code><img height="20" src="" alt="Git"></code> |
