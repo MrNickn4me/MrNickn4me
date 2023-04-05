@@ -1,6 +1,6 @@
 ## Hey, I'm Nickname!
 *<!--Web Developer /--> Junior Programmer*
-<br>
+<br />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=nickn4medev&show_icons=true&theme=tokyonight">
 
 ### About me
