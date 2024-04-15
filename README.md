@@ -21,5 +21,5 @@
 <h2 align="center">Currently Learning:</h2>
 
 <p align="center">
-  <img height="28" width="28" src="https://cdn.simpleicons.org/nextdotjs" /> <img height="28" width="28" src="https://cdn.simpleicons.org/prisma/fff" />
+  <!--<img height="28" width="28" src="https://cdn.simpleicons.org/nextdotjs" /> <img height="28" width="28" src="https://cdn.simpleicons.org/prisma/fff" />--> <img height="40" width="40" src="https://cdn.simpleicons.org/figma/e84f7a" />
 </p>
